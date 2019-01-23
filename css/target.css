@@ -7,8 +7,11 @@
 
 .target {
   height: 50px;
+  min-width: 54px;
   background-color: white;
   border: 1px solid black;
+  border-radius: 0px;
+  margin: 0px;
   font-family: Times, serif;
   font-size: 32px;
   text-align: center;
