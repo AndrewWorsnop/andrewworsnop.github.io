@@ -1,0 +1,19 @@
+body {
+  background-color: #2ecc71;
+}
+
+.container {
+  background-color: #fff;
+  text-align: center;
+  min-width: 80%;
+}
+
+.drumlabel {
+  display: block;
+  font-size: 150%;
+}
+
+.btn {
+  min-width: 100px;
+  margin-bottom: 10px;
+}
